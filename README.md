@@ -72,7 +72,7 @@
 
 <tr>
 <td><b>8</b></td>
-<td><a href="https://github.com/tropanets/ds-projects/blob/main/8_Project_2.ipynb" target="_blank"><b>Сборный проект-2</b></a> /</br>Combined Project 2</td>
+<td><a href="https://github.com/tropanets/ds-projects/blob/main/8_Project_2.ipynb" target="_blank"><b>Сборный Проект-2</b></a> /</br>Combined Project 2</td>
 <td>Моделируем процесс восстановления золота из золотосодержащей руды с метрикой sMAPE</td>
 <td><b>scikit-learn</b>, <b>seaborn</b></td>
 </tr>
