@@ -51,28 +51,28 @@
 
 <tr>
 <td><b>5</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Введение в машинное обучение</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/5_Introduction_to_Machine_Learning.ipynb" target="_blank"><b>Введение в машинное обучение</b></a></td>
 <td>Строим модель для прогнозирования тарифного плана для клиента солотового оператора</td>
 <td><b>scikit-learn</b>, <b>joblib</b></td>
 </tr>
 
 <tr>
 <td><b>6</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Обучение с учителем</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/6_Supervised_learning.ipynb" target="_blank"><b>Обучение с учителем</b></a></td>
 <td>Прогнозируем отток клиентов банка с метрикой f-1</td>
 <td><b>scikit-learn</b>, <b>matplotlib</b></td>
 </tr>
 
 <tr>
 <td><b>7</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/7_Machine_Learning_In_Business.ipynb" target="_blank"><b>Машинное обучение в бизнесе</b></a></td>
 <td>Выбираем регион для бурения нефтяных скважин</td>
 <td><b>scikit-learn</b>, <b>seaborn</b></td>
 </tr>
 
 <tr>
 <td><b>8</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Сборный проект-2</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/8_Project_2.ipynb" target="_blank"><b>Сборный проект-2</b></a></td>
 <td>Моделируем процесс восстановления золота из золотосодержащей руды с метрикой sMAPE</td>
 <td><b>scikit-learn</b>, <b>seaborn</b></td>
 </tr>
