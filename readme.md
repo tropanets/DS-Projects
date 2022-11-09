@@ -1,16 +1,10 @@
-# Data Science projects
-
-We were provided with information on both successfully completed projects as well as newly created ones.
-
-На моей странице представлены как успешно реализованные проекты, так и вновь созданные.
-
 <!DOCTYPE html>
 <html>
  <head>
   <meta charset="utf-8">
  </head>
  <body>
-<h1><a href="https://praktikum.yandex.ru/data-scientist/" target="_blank">Яндекс.Практикум "Специалист по Data Science"</a></h1>
+<h1><a href="https://praktikum.yandex.ru/data-scientist/" target="_blank">Data Science projects</a></h1>
    
 <b>Мои проекты</b><br/>
    
