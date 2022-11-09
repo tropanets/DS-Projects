@@ -44,7 +44,7 @@
 
 <tr>
 <td><b>4</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Сборный Проект-1</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/4_Project_1.ipynb" target="_blank"><b>Сборный Проект-1</b></a> /</br>Combined project 1</td>
 <td>Анализируем успешность компьютерных игр</td>
 <td><b>pandas</b>, <b>seaborn</b></td>
 </tr>
