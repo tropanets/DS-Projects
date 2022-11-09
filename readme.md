@@ -23,21 +23,21 @@
   
 <tr>
 <td><b>1</b></td>
-<td><a href="https://github.com/tropanets/projects/blob/main/1_Data_preprocessing.ipynb" target="_blank"><b>Предобработка данных</b> /</br>Data preprocessing</a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/1_Data_preprocessing.ipynb" target="_blank"><b>Предобработка данных</b></a> /</br>Data preprocessing</td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
 <td> <b>pandas, seaborn</b></td>
 </tr>
 
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/tropanets/projects/blob/main/2_Research_data_analysis.ipynb" target="_blank"><b>Исследовательский анализ данных</b> /</br>Research data analysis</a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/2_Research_data_analysis.ipynb" target="_blank"><b>Исследовательский анализ данных</b></a> /</br>Research data analysis</td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>pandas</b>, <b>matplotlib</b></td>
 </tr>
 
 <tr>
 <td><b>3</b></td>
-<td><a href="https://github.com/.ipynb" target="_blank"><b>Статистический анализ данных</b></a></td>
+<td><a href="https://github.com/tropanets/projects/blob/main/3_Statistical_analysis_of_data.ipynb" target="_blank"><b>Статистический анализ данных</b></a> /</br> Statical analysis of data</td>
 <td>Определяем перспективный тариф для телеком компании</td>
 <td><b>scipy</b>, <b>numpy</b></td>
 </tr>
