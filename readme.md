@@ -23,14 +23,14 @@
   
 <tr>
 <td><b>1</b></td>
-<td><a href="https://github.com/tropanets/projects/1_Data_preprocessing.ipynb" target="_blank"><b>Предобработка данных/</br>Data preprocessing</b></a></td>
+<td><a href="https://github.com/tropanets/projects/1_Data_preprocessing.ipynb" target="_blank"><b>Предобработка данных</b> /</br>Data preprocessing</a></td>
 <td>Исследуем надёжность заёмщиков банка с помощью стандартных методов визуализации и анализа данных</td>
 <td> <b>pandas, seaborn</b></td>
 </tr>
 
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/tropanets/2_Research_data_analysis.ipynb" target="_blank"><b>Исследовательский анализ данных /</br>Research data analysis</b></a></td>
+<td><a href="https://github.com/tropanets/2_Research_data_analysis.ipynb" target="_blank"><b>Исследовательский анализ данных</b> /</br>Research data analysis</a></td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>pandas</b>, <b>matplotlib</b></td>
 </tr>
