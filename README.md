@@ -79,7 +79,7 @@
 
 <tr>
 <td><b>9</b></td>
-<td><b>Линейная алгебра</b></td>
+<td><a href="https://github.com/tropanets/ds-projects/blob/main/9_Linear_Algebra.ipynb" target="_blank"><b>Линейная алгебра</b></a> /</br>Linear Algebra</td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
