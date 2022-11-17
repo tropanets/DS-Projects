@@ -80,8 +80,8 @@
 <tr>
 <td><b>9</b></td>
 <td><a href="https://github.com/tropanets/ds-projects/blob/main/9_Linear_Algebra.ipynb" target="_blank"><b>Линейная алгебра</b></a> /</br>Linear Algebra</td>
-<td>Описание</td>
-<td><b>Library</b>, <b>Library</b></td>
+<td>Защищаем данные клиентов страховой компании «Хоть потоп»</td>
+<td><b>scikit-learn</b>, <b>matplotlib</b>, <b>seaborn</b></td>
 </tr>
 
 <tr>
