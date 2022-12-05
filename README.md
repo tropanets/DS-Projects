@@ -86,7 +86,7 @@
 
 <tr>
 <td><b>10</b></td>
-<td><b>Численные методы</b></td>
+<td><a href="https://github.com/tropanets/ds-projects/blob/main/10_Numerical_Methods.ipynb" target="_blank"><b>Численные методы</b></a> /</br>Numerical Methods</td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
