@@ -87,8 +87,8 @@
 <tr>
 <td><b>10</b></td>
 <td><a href="https://github.com/tropanets/ds-projects/blob/main/10_Numerical_Methods.ipynb" target="_blank"><b>Численные методы</b></a> /</br>Numerical Methods</td>
-<td>Описание</td>
-<td><b>Library</b>, <b>Library</b></td>
+<td>Изучаем сервис по продаже автомобилей с пробегом «Не бит, не крашен»</td>
+<td><b>lightgbm</b>, <b>sklearn</b></td>
 </tr>
 
 <tr>
