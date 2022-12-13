@@ -92,10 +92,9 @@
 </tr>
 
 <tr>
-<td><b>11</b></td>
+<td><b>10</b></td>
 <td><a href="https://github.com/tropanets/ds-projects/blob/main/11_Time_Series.ipynb" target="_blank"><b>Временные ряды</b></a> /</br>Time Series</td>
 <td>Прогнозируем заказы такси в компании «Чётенькое такси»</td>
-<td>Описание</td>
 <td><b>sklearn</b>, <b>statsmodels</b></td>
 </tr>
 
