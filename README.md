@@ -100,7 +100,7 @@
 
 <tr>
 <td><b>12</b></td>
-<td><a href="https://github.com/tropanets/ds-projects/blob/main/12_Machine_Learing_and_text_Analysis.ipynb" target="_blank"><b>Машинное обучение для текстов</b></a> /</br>Machine learing for text analysis</td>
+<td><a href="https://github.com/tropanets/ds-projects/blob/main/12_Machine_Learing_and_text_Analysis.ipynb" target="_blank"><b>Машинное обучение для текстов</b></a> /</br>Machine learing and text analysis</td>
 <td>Обучаем модели ML и анализ данных, прогнозирование токсичных комментариев в интернет-магазине «Викишоп»</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
