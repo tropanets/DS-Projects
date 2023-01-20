@@ -102,7 +102,7 @@
 <td><b>12</b></td>
 <td><a href="https://github.com/tropanets/DS-Projects/blob/main/12_Machine_Learning_and_Text_Analysis.ipynb" target="_blank"><b>Машинное обучение для текстов</b></a> /</br>Machine learing and text analysis</td>
 <td>Обучаем модели ML и анализ данных, прогнозирование токсичных комментариев в интернет-магазине «Викишоп»</td>
-<td><b>Library</b>, <b>Library</b></td>
+<td><b>sklearn</b>, <b>pipeline</b></td>
 </tr>
 
 <tr>
