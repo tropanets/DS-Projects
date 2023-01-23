@@ -52,7 +52,7 @@
 <tr>
 <td><b>5</b></td>
 <td><a href="https://github.com/tropanets/ds-projects/blob/main/5_Introduction_to_Machine_Learning.ipynb" target="_blank"><b>Введение в машинное обучение</b></a> /</br>Introduction to Machine Learning</td>
-<td>Строим модель для прогнозирования тарифного плана для клиента солотового оператора</td>
+<td>Строим модель для прогнозирования тарифного плана для клиента сотового оператора</td>
 <td><b>scikit-learn</b>, <b>joblib</b></td>
 </tr>
 
