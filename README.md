@@ -30,14 +30,14 @@
 
 <tr>
 <td><b>2</b></td>
-<td><a href="https://github.com/tropanets/ds_research_data_analysis/" target="_blank"><b>Исследовательский анализ данных</b></a> /</br>Research data analysis</td>
+<td><a href="https://github.com/tropanets/ds_2_research_data_analysis/" target="_blank"><b>Исследовательский анализ данных</b></a> /</br>Research data analysis</td>
 <td>Определяем рыночную стоимость объектов недвижимости на основании имеющихся данных</td>
 <td><b>pandas</b>, <b>matplotlib</b></td>
 </tr>
 
 <tr>
 <td><b>3</b></td>
-<td><a href="https://github.com/tropanets/ds_statistical_analysis_of_data/" target="_blank"><b>Статистический анализ данных</b></a> /</br> Statical analysis of data</td>
+<td><a href="https://github.com/tropanets/ds_3_statistical_analysis_of_data/" target="_blank"><b>Статистический анализ данных</b></a> /</br> Statical analysis of data</td>
 <td>Определяем перспективный тариф для телеком компании</td>
 <td><b>scipy</b>, <b>numpy</b></td>
 </tr>
