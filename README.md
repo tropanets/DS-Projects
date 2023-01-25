@@ -106,14 +106,14 @@
 </tr>
 
 <tr>
-<td><b>14</b></td>
+<td><b>13</b></td>
 <td><b>Компьютерное зрение</b></td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
 
 <tr>
-<td><b>15</b></td>
+<td><b>14</b></td>
 <td><b>Выпускной проект</b></td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
