@@ -107,14 +107,14 @@
 
 <tr>
 <td><b>13</b></td>
-<td><b>Компьютерное зрение</b></td>
+<td><b><a href="https://github.com/tropanets/ds_13_neural_network/" target="_blank"><b>Компьютерное зрение</b></a> /</br>Neural network</b></td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
 
 <tr>
 <td><b>14</b></td>
-<td><b>Выпускной проект</b></td>
+<td><b><a href="https://github.com/tropanets/ds_14_final_project/" target="_blank"><b>Выпускной проект</b></a> /</br>Final project</b></td>
 <td>Описание</td>
 <td><b>Library</b>, <b>Library</b></td>
 </tr>
