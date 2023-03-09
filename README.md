@@ -107,14 +107,14 @@
 
 <tr>
 <td><b>13</b></td>
-<td><b><a href="https://github.com/tropanets/ds_13_neural_network/" target="_blank"><b>Компьютерное зрение</b></a></br>Neural network</b></td>
+<td><b><a href="https://github.com/tropanets/ds_13_neural_network/" target="_blank"><b>Компьютерное зрение</b></a> /</br>Neural network</td>
 <td>Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. </td>
 <td><b>pandas, sklearn, numpy, keras</b></td>
 </tr>
 
 <tr>
 <td><b>14</b></td>
-<td><b><a href="https://github.com/tropanets/ds_14_final_project/" target="_blank"><b>Выпускной проект</b></a></br>Final project</b></td>
+<td><b><a href="https://github.com/tropanets/ds_14_final_project/" target="_blank"><b>Выпускной проект</b></a> /</br>Final project</td>
 <td>Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия.</td>
 <td><b>lightgbm, catboost, xgboost</b></td>
 </tr>
